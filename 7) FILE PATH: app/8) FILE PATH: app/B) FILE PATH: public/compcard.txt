@@ -1,0 +1,7 @@
+This is a placeholder.
+
+To complete setup, replace this file with your actual comp card PDF:
+- Filename: compcard.pdf
+- Location: public/compcard.pdf
+
+Once uploaded, the "Request Comp Card" button can link to it.

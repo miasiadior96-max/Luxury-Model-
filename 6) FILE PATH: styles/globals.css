@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-neutral-50 text-black font-sans;
+}
+
+a {
+  @apply text-black hover:underline;
+}
+
+.btn {
+  @apply bg-black text-white px-4 py-2 text-sm uppercase tracking-wide;
+}
+
+.btn-outline {
+  @apply border border-black text-black px-4 py-2 text-sm uppercase tracking-wide;
+}
+
+section {
+  @apply py-20 px-6;
+}
